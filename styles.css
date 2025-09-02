@@ -1,0 +1,25 @@
+a {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p, h1 {
+    color:white;
+    /* bit small */
+      font-size: 25px;
+}
+
+body {
+    color: black;
+}
+
+div.centered {
+    text-align: center;
+    margin: auto;
+}
