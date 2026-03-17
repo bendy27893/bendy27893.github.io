@@ -5,15 +5,11 @@ a {
   font-size: 20px;
 }
 
-body {
-  background-image:url("./img/bg.svg");
-  background-size:100vw 100vh;
-  backgroud-repeat: repeat-y;
-}
-
 img {
     display: block;
     margin: auto;
+    width: 30%;
+    height: 30%;
 }
 
 p, h1 {
@@ -29,6 +25,4 @@ body {
 div.centered {
     text-align: center;
     margin: auto;
-    /* AAAHH!!! DONT TOUCH THEM BORDERS */
-    width: 50%;
 }
